@@ -1,0 +1,19 @@
+# Revit Wavefront OBJ Exporter 2.9.7 - (c) 2018 www.inglegreen.com
+# File Created: 2018/8/22 9:55:34
+
+newmtl Default material
+Ka 0.0000 0.0000 0.0000
+Kd 0.588235294117647 0.588235294117647 0.588235294117647 1.0
+d 1.00
+
+newmtl 
+Ka 0.0000 0.0000 0.0000
+Kd 0.596078431372549 0.603921568627451 0.541176470588235 1.0
+d 1.00
+map_Kd textures\cmu_running_200x400_gray.png
+map_bump textures\cmu_running_200x400_bump.png
+
+newmtl _-_
+Ka 0.0000 0.0000 0.0000
+Kd 0.752941176470588 0.752941176470588 0.752941176470588 1.0
+d 1.00
