@@ -1,0 +1,12 @@
+{
+  "name": "three-zip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nichenghyx/three-zip.git",
+  "author": "heyongxian <1064042411@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jszip": "^3.2.0",
+    "three": "^0.101.1"
+  }
+}
